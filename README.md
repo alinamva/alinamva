@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ I’m currently looking for a new job opportunity<br>🧠 I’m currently learning more about the Frontend development<br>✉ You can reach me at alinamvaaa@gmail.com<br>⚡ Fun fact 🔥 Turning caffeine into code, and errors into experiences! ☕💻😅  https://portfolio-alinamva.vercel.app/
+🖥️ I’m currently looking for a new job opportunity<br>🧠 I’m currently learning more about the Frontend development<br>✉ You can reach me at alinamvaaa@gmail.com<br>⚡ Fun fact 🔥 Turning caffeine into code, and errors into experiences! ☕💻😅 <br> https://portfolio-alinamva.vercel.app/
 
 
 ## 🌐 Socials:
